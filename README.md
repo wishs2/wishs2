@@ -83,7 +83,8 @@ Apache JMeter로 30,000건의 요청을 수행하여
 > 상세한 설계 과정과 문제 해결 내용은 Portfolio에서 확인할 수 있습니다.
 
 👉 [Project Repository](https://github.com/wishs2/SSGINC_unnie.git)
-👉 [Portfolio PDF](https://github.com/wishs2/SSGINC_unnie/blob/0fcd099186abb13648f10e1fb32d4b513312c361/backend-portfolio.pdf)
+<br>
+👉 [Portfolio PDF](backend-portfolio.pdf)
 
 ---
 
