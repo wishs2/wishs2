@@ -84,7 +84,7 @@ Apache JMeter로 30,000건의 요청을 수행하여
 
 👉 [Project Repository](https://github.com/wishs2/SSGINC_unnie.git)
 <br>
-👉 [Portfolio PDF](https://github.com/wishs2/SSGINC_unnie/blob/0fcd099186abb13648f10e1fb32d4b513312c361/backend-portfolio.pdf)
+👉 [Portfolio PDF](https://github.com/wishs2/SSGINC_unnie/blob/bec7db40f7f205c5fc65eccc30ce6651fd461a7f/backend-portfolio.pdf)
 
 ---
 
